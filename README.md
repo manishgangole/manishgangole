@@ -41,7 +41,7 @@
 
 ### 🚀 Featured Project
 
-#### 🔗 [ScamScreener](https://github.com/manishgangole/scamscreener)  
+#### 🔗 [ScamScreener](https://github.com/ScamScreener)  
 An AI tool to detect fake job offers using NLP and scam pattern analysis.
 
 ---
