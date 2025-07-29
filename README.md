@@ -13,7 +13,7 @@
 - 💡 Currently building **ScamScreener** – an AI tool to detect fake job offers  
 - 🌱 Learning: NLP, Cybersecurity fundamentals, Full-Stack Python  
 - 🛠️ Exploring: FastAPI, MongoDB, HuggingFace Transformers  
-- 📫 Reach me at: **manishgangole@gmail.com**
+- 📫 Reach me at: **manishgangole80@gmail.com**
 
 ---
 
