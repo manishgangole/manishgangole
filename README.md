@@ -50,7 +50,7 @@ An AI tool to detect fake job offers using NLP and scam pattern analysis.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-gangole-2a750725b
 )
-[![Gmail](https://img.shields.io/badge/-manishgangole@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishgangole@gmail.com)
+[![Gmail](https://img.shields.io/badge/-manishgangole@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manishgangole80@gmail.com)
 
 ---
 
