@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Manish Gangole</h1>
 
 <p align="center">
-  🚀 AI & Cybersecurity Enthusiast | 👨‍💻 TE Student | 🛡️ Building ScamScreener<br>
-  Passionate about real-world problem solving using Machine Learning, NLP, and secure systems.
+  🚀 AI & Cybersecurity Enthusiast | 👨‍💻 TE Student <br>
+  Passionate about real-world problem solving using My technical knowledge and secure systems.
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ### 🧠 About Me
 
 - 🎓 Third Year Engineering Student, diving deep into tech & innovation  
-- 💡 Currently building **ScamScreener** – an AI tool to detect fake job offers  
-- 🌱 Learning: NLP, Cybersecurity fundamentals, Full-Stack Python  
+- 💡 Currently building **VehicleServiceTracker** – a blockchain project to prevent frauds  
+- 🌱 Learning: blockchain, Cybersecurity fundamentals, Full-Stack Python  
 - 🛠️ Exploring: FastAPI, MongoDB, HuggingFace Transformers  
 - 📫 Reach me at: **manishgangole80@gmail.com**
 
