@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manishgangole&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="(https://github-readme-stats.vercel.app/api?username=manishgangole)](https://github.com/manishgangole/github-readme-stats)&show_icons=true&theme=github_dark&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishgangole&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
